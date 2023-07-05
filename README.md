@@ -17,7 +17,7 @@ _Collaborate and work together on GitHub._
   <<< Author notes: Step 5 >>> Very explicit!! 
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+This is making sense. 
 
 ## Step 5: Apply suggested changes
 
